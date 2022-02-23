@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TitleEditText">
+<!--        <item name="android:textColor">?attr/colorPrimary</item>-->
+<!--        <item name="android:paddingTop">4dp</item>-->
+<!--        <item name="android:enabled">false</item>-->
+<!--        <item name="android:focusableInTouchMode">false</item>-->
+<!--        <item name="android:focusable">false</item>-->
+        <item name="android:textSize">24sp</item>
+        <item name="singleLine">true</item>
+    </style>
+
+    <style name="ContentEditText">
+        <item name="android:textSize">16sp</item>
+        <item name="singleLine">false</item>
+    </style>
+</resources>
